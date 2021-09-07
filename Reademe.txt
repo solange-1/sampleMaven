@@ -1,0 +1,1 @@
+checking my jenkins jobs picks automatically or not
